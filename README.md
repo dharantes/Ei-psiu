@@ -1,2 +1,2 @@
-# Ei-psiu 
- Repositório
+# Ei, psiu! 
+ Repositório para aprendizado
